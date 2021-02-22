@@ -1,0 +1,24 @@
+.title {
+    text-transform: uppercase;
+    text-align: center;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  .text-left {
+    text-align: left;
+  }
+  
+  .bg-grey {
+    background-color: var(--grey);
+  }
+  .bg-white {
+    background-color: var(--white);
+  }
+  .bg-main {
+    background-color: var(--main-color);
+  }
+  .round {
+      border-radius: 5px;
+  }
